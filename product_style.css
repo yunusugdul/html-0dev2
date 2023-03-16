@@ -1,0 +1,16 @@
+@import url(style.css);
+img{
+    width: 250px;
+    height: 280px;
+}
+.fiyat{
+    background-color: gray;
+    color: aliceblue;
+    border-radius:3px ;
+}
+.margin-top-card{
+    margin-top:10px;
+}
+.card h5{
+    color: blueviolet;
+}

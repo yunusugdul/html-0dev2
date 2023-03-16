@@ -1,0 +1,20 @@
+@import url(style.css);
+main{
+    width: 100%;
+    height: auto;
+}
+.baslik{
+    width: 100%;
+    color: blueviolet;
+    text-align: center;
+    font-size: 25px;
+}
+.card-body{
+    background-color: #E9ECEF;
+}
+.vz-ms{
+    color: darkorange;
+}
+.card{
+    border:none;
+}
